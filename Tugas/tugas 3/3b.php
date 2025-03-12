@@ -10,6 +10,6 @@ function urutanAngka($angka) {
     }
 }
 
-// Contoh pemanggilan fungsi
+
 urutanAngka(5);
 ?>
